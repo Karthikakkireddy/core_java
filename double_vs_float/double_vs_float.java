@@ -1,3 +1,4 @@
+package double_vs_float;
 public class double_vs_float {
     public static void main(String[] args) {
        float f = 0.123456789f;
